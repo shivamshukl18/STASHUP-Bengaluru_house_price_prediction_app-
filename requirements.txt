@@ -7,3 +7,4 @@ xgboost
 joblib
 streamlit
 jupytext
+streamlit-option-menu
