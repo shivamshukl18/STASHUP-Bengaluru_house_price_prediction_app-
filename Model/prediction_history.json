@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2026-10-10 13:23:48",
+    "location": "Ulsoor",
+    "area_type": "Built-up  Area",
+    "total_sqft": 1200,
+    "bhk": 2,
+    "bath": 2,
+    "balcony": 1,
+    "ready_to_move": true,
+    "predicted_lakh": 103.62
+  }
+]
