@@ -470,7 +470,7 @@ elif selected == "Analytics":
         fig2 = px.scatter(location_stats, x="avg_sqft", y="avg_price_lakh",
                           size="listings", color="median_bhk",
                           hover_name="location",
-                          color_continuous_scale="Copper",
+                          color_continuous_scale="Plasma",
                           labels={"avg_sqft": "Avg Sqft", "avg_price_lakh": "Avg Price (Lakh)"},
                           template="plotly_white")
         fig2.update_layout(height=520, margin=dict(l=10, r=10, t=10, b=10),
